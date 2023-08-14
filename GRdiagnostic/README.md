@@ -1,6 +1,6 @@
-# Paper 
+# Reference
 
-If you publish a paper using this package, please cite<br>
+If you publish a paper using this software, please cite<br>
 Lars Berling, Remco Bouckaert, and Alex Gavryushkin<br>
 **Automated convergence diagnostic for phylogenetic MCMC analyses**<br>
 *BioRxiv 2023*<br>

@@ -1,3 +1,12 @@
+# Reference
+
+If you publish a paper using this software, please cite<br>
+Lars Berling, Lena Collienne, and Alex Gavryushkin<br>
+**Estimating the mean in the space of ranked phylogenetic trees**<br>
+*bioRxiv* 2023<br>
+[https://doi.org/10.1101/2023.05.08.539790](https://doi.org/10.1101/2023.05.08.539790) 
+
+
 # Execute
 
 Execute the script via `python DS1-centroid.py` in the command line. This will create the nexus tree file `centroid_{sos-value}.trees`.
