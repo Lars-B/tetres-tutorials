@@ -1,3 +1,8 @@
+| :warning: Package in active developement                                                                                       |
+|:-------------------------------------------------------------------------------------------------------------------------------|
+| If you encounter a bug or don't find documentation for something please raise an issue in the [package repostiory](https://github.com/bioDS/tetres). |
+
+
 # tetres-tutorials
 
 This repository contains tutorials on how to use the [tetres package](https://github.com/bioDS/tetres).
