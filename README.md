@@ -1,6 +1,6 @@
 # tetres-tutorials
 
-This repository contains tutorials on how to use the (tetres package)[https://github.com/bioDS/tetres].
+This repository contains tutorials on how to use the [tetres package](https://github.com/bioDS/tetres).
 
 
 # Installation of tetres
