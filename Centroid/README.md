@@ -1,6 +1,6 @@
 # Execute
 
-Execute the script via `python DS1.py` in the command line. This will create the nexus tree file `centroid_{sos-value}.trees`.
+Execute the script via `python DS1-centroid.py` in the command line. This will create the nexus tree file `centroid_{sos-value}.trees`.
 
 ## Further annotations
 
