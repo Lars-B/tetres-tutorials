@@ -23,7 +23,7 @@ if __name__ == "__main__":
 								ess_threshold=200,  # ESS threshold of the Cut out portion
 								pseudo_ess_range=100,  # number of tree samples to use when calulating the pseudo ESS, set to 'all' to use all trees
 								smoothing_average="mean",  # using the mean to smooth the GR value
-								_gr_boundary=0.05,  # Setting the tolerance value
+								tolerance=0.05,  # Setting the tolerance value
 								burnin=burn  # number of samples to be deleted before computation
 								)
 
@@ -34,13 +34,13 @@ if __name__ == "__main__":
 		# This will extract the subset from chain 0, as compared to chain 2
 		mychain.extract_cutoff(i=0, j=2, # again indices of the individual chains to use
 		 						ess_threshold=200,
-		 						gr_boundary=0.05, 
+		 						tolerance=0.05, 
 		 						smoothing_average="mean",
 		 						burnin=burn)  # number of samples to be deleted before computation
 		# This will extract the subset from chain 2, as compared to chain 0
 		mychain.extract_cutoff(i=2, j=0, # again indices of the individual chains to use
 		 						ess_threshold=200,
-		 						gr_boundary=0.05, 
+		 						tolerance=0.05, 
 		 						smoothing_average="mean",
 		 						burnin=burn)  # number of samples to be deleted before computation
 
