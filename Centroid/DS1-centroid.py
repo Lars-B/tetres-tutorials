@@ -26,5 +26,8 @@ if __name__ == "__main__":
 			# Writing the centroid to a nexus file, file_name defines where this new file will be created
 			# name is the name of the centroid tree in the nexus file itself
 			cen.write_nexus(mytts.map, file_name=f"centroid_{sos}.tree", name=f'centroid{sos}')
+			# annotating the centroid with branch lengths and writing to nexus file
+			ann_cen = annotate_centroid(cen, mytts)
+            ann_cen.write_nexus(tree_set.map, file_name=f"centroid_annotated_{sos}.tree", name=f"ann-centroid-{sos}")
 		else:
 			print("Already found centroid with same SoS value.")
