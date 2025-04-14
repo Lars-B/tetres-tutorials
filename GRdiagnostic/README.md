@@ -2,9 +2,9 @@
 
 If you publish a paper using this software, please cite<br>
 Lars Berling, Remco Bouckaert, and Alex Gavryushkin<br>
-**Automated convergence diagnostic for phylogenetic MCMC analyses**<br>
-*BioRxiv 2023*<br>
-[https://doi.org/10.1101/2023.08.10.552869](https://doi.org/10.1101/2023.08.10.552869)<br>
+**An automated convergence diagnostic for phylogenetic MCMC analyses**<br>
+*IEEE/ACM Transactions on Computational Biology and Bioinformatics* (2024)<br>
+[https://doi.org/10.1109/TCBB.2024.3457875](https://doi.org/10.1101/2023.08.10.552869)<br>
 
 
 # Execute

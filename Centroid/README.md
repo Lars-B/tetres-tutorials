@@ -3,8 +3,8 @@
 If you publish a paper using this software, please cite<br>
 Lars Berling, Lena Collienne, and Alex Gavryushkin<br>
 **Estimating the mean in the space of ranked phylogenetic trees**<br>
-*bioRxiv* 2023<br>
-[https://doi.org/10.1101/2023.05.08.539790](https://doi.org/10.1101/2023.05.08.539790) 
+*Bioinformatics* (2024)<br>
+[https://doi.org/10.1093/bioinformatics/btae514](...) 
 
 
 # Execute
